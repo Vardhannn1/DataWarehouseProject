@@ -1,2 +1,2 @@
 # DataWarehouseProject
-A modern data warehouse with SQl Server. Including ETL processes, data modelling and analutics.
+A modern data warehouse using SQL Server, including ETL processes, data modeling, and analytics.
